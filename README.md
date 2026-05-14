@@ -33,7 +33,3 @@ Frontend developer з Дніпра, Україна.
 - навчальні frontend-проєкти
 - невеликі pet-проєкти
 - практика з React та TypeScript
-
-![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=poliab&show_icons=true&hide_border=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poliab&layout=compact&hide_border=true&theme=default)
